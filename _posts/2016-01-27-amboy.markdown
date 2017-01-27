@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "amboy, california"
+categories: jekyll update
+---
+
+![amboy, california]({{site.baseurl}}/images/DSCF0808.jpg)
