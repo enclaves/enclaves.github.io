@@ -16,19 +16,23 @@ body {
 .image {
 	margin-top: -1em;
 	height: 85%;
-    width: 75%;
+    width: 90%;
     max-width: 1000px; 
     object-fit: contain;
 }
 
+.image p {
+	height: calc(100% - 120px);
+}
+
 .image img {
-    height: calc(100% - 120px);
+    height: 100%;
     width: 100%; 
     object-fit: contain;
 }
 
 .caption {
-	font-size: 18px;
+	font-size: 16px;
 	margin-top: 1em;
 	text-align: center;
 }
@@ -37,6 +41,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	margin-top: 1em;
+	font-size: 16px;
 }
 
 a {
@@ -50,7 +55,7 @@ a:hover {
 }
 
 .copyright {
-	size: 12px;
+	font-size: 10px;
 	color: #222;
 	text-align: center;
 	margin-top: 3em;
