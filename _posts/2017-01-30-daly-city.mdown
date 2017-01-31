@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "daly city, california"
+---
+
+![daly city, california]({{site.baseurl}}/images/DSCF2280.jpg)
