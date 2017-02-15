@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "san francisco, california"
+title:  "golden gate bridge, california"
 ---
 
-![san francisco, callifornia.]({{site.baseurl}}/images/DSCF2540.jpg)
+![golden gate bridge, callifornia.]({{site.baseurl}}/images/DSCF2540.jpg)
