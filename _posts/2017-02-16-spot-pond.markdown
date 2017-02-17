@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "spot pond, massachusetts"
+---
+
+![spot pond, massachusetts.]({{site.baseurl}}/images/DSCF2580.jpg)
